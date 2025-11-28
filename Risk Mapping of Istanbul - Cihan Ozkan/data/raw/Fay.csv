@@ -1,0 +1,39 @@
+,ILCE,FAY_HATTINA_YAKINLIK,Fay Skoru
+0,AVCILAR,Çok yakın (≤15 km),1.0
+1,KUCÜKCEKMECE,Çok yakın (≤15 km),1.0
+2,BAKIRKOY,Çok yakın (≤15 km),1.0
+3,BEYLIKDUZU,Çok yakın (≤15 km),1.0
+4,GUNGOREN,Çok yakın (≤15 km),1.0
+5,ZEYTINBURNU,Çok yakın (≤15 km),1.0
+6,BAHCELIEVLER,Çok yakın (≤15 km),1.0
+7,FATIH,Çok yakın (≤15 km),1.0
+8,KADIKOY,Yakın (~15–25 km),0.8
+9,USKUDAR,Yakın (~15–25 km),0.8
+10,ATASEHIR,Yakın (~15–25 km),0.8
+11,UMRANIYE,Yakın (~15–25 km),0.8
+12,MALTEPE,Yakın (~15–25 km),0.8
+13,KARTAL,Yakın (~15–25 km),0.8
+14,PENDIK,Yakın (~15–25 km),0.8
+15,SULTANBEYLI,Yakın (~15–25 km),0.8
+16,SANCAKTEPE,Yakın (~15–25 km),0.8
+17,TUZLA,Yakın (~15–25 km),0.8
+18,ADALAR,Yakın (~15–25 km),0.8
+19,BUYUKCEKMECE,Orta yakın (~25–35 km),0.6
+20,CEKMEKOY,Orta uzak (~35–45 km),0.6
+21,BEYKOZ,Orta uzak (~35–45 km),0.6
+22,SILE,Uzak (>45 km),0.4
+23,SARIYER,Uzak (>45 km),0.4
+24,CATALCA,Uzak (>45 km),0.4
+25,EYUPSULTAN,Orta uzak (~35–45 km),0.6
+26,ESENLER,Orta yakın (~25–35 km),0.6
+27,ESENYURT,Orta yakın (~25–35 km),0.6
+28,KAGITHANE,Orta uzak (~35–45 km),0.6
+29,GAZIOSMANPASA,Orta uzak (~35–45 km),0.6
+30,ARNAVUTKOY,Uzak (>45 km),0.4
+31,BAGCILAR,Orta uzak (~35–45 km),0.6
+32,BASAKSEHIR,Orta uzak (~35–45 km),0.6
+33,BAYRAMPASA,Orta uzak (~35–45 km),0.6
+34,BESIKTAS,Orta uzak (~35–45 km),0.6
+35,BEYOGLU,Orta uzak (~35–45 km),0.6
+37,SULTANGAZI,Orta uzak (~35–45 km),0.6
+38,SISLI,Orta uzak (~35–45 km),0.6
